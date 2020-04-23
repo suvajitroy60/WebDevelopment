@@ -70,3 +70,10 @@ body{
     background: #FFF;
     border: 2px solid #3e64ff;
   }
+
+
+  /* Specification Section */
+  
+  #specification{
+      padding-right: 7% 13%;
+  }
