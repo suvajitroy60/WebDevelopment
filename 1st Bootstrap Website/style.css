@@ -11,8 +11,9 @@ body{
     color: #3e64ff;
     letter-spacing: 1px;
     line-height: 15px;
-    border: 2px solid #fff;
+    border: 2px solid #3e64ff;
     border-radius: 40px;
+    border-color: #3e64ff;
     background: #ecfcff;
     transition: all 0.3s ease 0s;
   }
@@ -44,7 +45,7 @@ body{
     font-weight: 900;
     margin-bottom: 30%;
 }
-.container-fluid{
+.container-fluid-title{
     padding: 3% 15%;
 }
 .title-column{
@@ -76,4 +77,26 @@ body{
   
   #specification{
       padding-right: 7% 13%;
+      
   }
+  .container-fluid-specs{
+      background-color: cornsilk;
+  }
+
+  .row-spec-style{
+      padding: 3% 10%;
+      height: 300px;
+  }
+  .spec-h5-style{
+    padding-top: 20%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .spec-p-style{
+    font-family: 'Poppins', sans-serif;
+    font-weight: lighter;
+    font-size: 2px;
+  }
+
+  
